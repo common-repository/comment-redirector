@@ -1,0 +1,31 @@
+/* This stylesheet is used to style the public view of the plugin. */
+
+.commentRedirectArea {
+    background-color: #f6f6f6;
+    border: 1px solid #DDDDDD;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+    padding: 10px;
+}
+.commentRedirectLogoArea {
+    display: block;
+    float: left;
+    overflow: hidden;
+    width: 115px;
+    height: 96px;
+}
+.commentRedirectLogo
+{}
+.commentRedirectText
+{
+    margin-top: 12px;
+}
+.commentRedirectText a
+{
+    font-weight: bold;
+}
+.commentRedirectTitle
+{
+    color: #CA4842;
+}
